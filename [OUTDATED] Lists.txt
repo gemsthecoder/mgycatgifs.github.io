@@ -1,4 +1,4 @@
-This list has been outdated. Feel free to modify but please read the rules on #
+This list has been outdated. Feel free to modify but please read the rules on README.md
 
 assets/gifs/
 ✔ 200w.webp
